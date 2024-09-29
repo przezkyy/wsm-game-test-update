@@ -1,2 +1,2 @@
-Baza wirusów avast nie została zaktualizowana, musisz ją zaktualizować recznie
-By pobrać nową wersję przejdz na: xyz.github.com
+Baza wirusow avast nie zostala zaktualizowana, musisz ja zaktualizowac recznie
+By pobrac nowa wersje przejdz na: xyz.github.com
